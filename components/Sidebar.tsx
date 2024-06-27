@@ -22,17 +22,17 @@ const Sidebar: React.FC<SidebarProps> = ({ children, songs }) => {
       {
         icon: HiHome,
         label: "Home",
-        active: pathname !== "/search",
+        active: !pathname.includes("/search"),
         href: "/",
       },
       {
         icon: BiSearch,
         label: "Search",
-        active: pathname === "/search",
+        active: pathname.includes("/search"),
         href: "/search",
       },
     ],
-    []
+    [pathname]
   );
 
   return (
