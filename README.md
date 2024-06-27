@@ -8,6 +8,10 @@
 
 Welcome to the Spotify Clone project! This application replicates the core features of Spotify, providing a seamless music streaming experience. Built with modern technologies, it ensures a robust and scalable architecture.
 
+<img src="https://github.com/Dusk-afk/spotify-clone/assets/83510709/4f7734d6-335c-4b99-8efc-e406e2f2c37c" width="475" height="300" />
+<!-- <img src="https://github.com/Dusk-afk/spotify-clone/assets/83510709/74f2a920-4837-4b72-b413-360baff36aab" width="475" height="300" />
+<img src="https://github.com/Dusk-afk/spotify-clone/assets/83510709/898c68dd-854d-4227-bd8b-4de2694b010d" width="475" height="300" /> !-->
+
 ## 🚀 Features
 
 - **User Authentication:** Secure user authentication and management powered by Supabase.
